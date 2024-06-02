@@ -1303,3 +1303,13 @@ no changes added to commit (use "git add" and/or "git commit -a")
 sahana@LAPTOP-CPLAJ9FT:~$ ls
 FETCH_HEAD  class1.yml  demo.yml  sample1234  star
 sahana@LAPTOP-CPLAJ9FT:~$ cd
+ls
+cd FETCH_HEAD  
+git status
+rm -rf FETCH_HEAD 
+ls
+git status
+git add -u
+git commit -m "removing fetchhead"
+git status
+git push origin master

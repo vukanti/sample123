@@ -1313,3 +1313,26 @@ git add -u
 git commit -m "removing fetchhead"
 git status
 git push origin master
+ls
+git status
+git add . 
+git commit -m "history"
+git push origin master
+https://github.com/vukanti/star/security/secret-scanning/unblock-secret/2hKpTYAtBZZAJp8wU4PXIphOFRW 
+git push origin master
+git clone https://github.com/vukanti/freeCodeCamp.git 
+ls
+git rm -r freeCodeCamp 
+git rm -rf freeCodeCamp 
+rm -rf freeCodeCamp 
+git commit -m "removing directory"
+git push origin master
+git push origin main
+git push origin --force master
+git log --oneline
+ls
+git checkout master
+git status
+git push origin master
+git pull origin master
+ls
